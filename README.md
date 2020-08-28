@@ -3,8 +3,6 @@
 <!--
 **Shobhs13/Shobhs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Research/Language Models at Indraprastha Institute of Information Technology, Delhi
 - 🌱 I’m currently learning Quant Research, Data Structures & Algorithms and React-native.
 - 👯 I’m looking to collaborate on Data Science and it's applications. 
