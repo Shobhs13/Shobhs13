@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Shobhs13/Shobhs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Data Research/Language Models at Indraprastha Institute of Information Technology, Delhi
@@ -10,4 +9,4 @@
 - 💬 Ask me about Data Analysis which obviously I'll try my best to answer and if not then i'll try to work it out.
 - 📫 How to reach me: shobhitsinha13@gmail.com 
 - ⚡ Fun fact: Trying to figure it out :p.
--->
+
